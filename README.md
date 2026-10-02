@@ -1,4 +1,4 @@
-# Hello
+## Hello
 
 I'm a quantitative psychologist working at the intersection of **LLM evaluation, measurement science, psychometrics, Bayesian modeling, causal inference, and machine learning**.
 
